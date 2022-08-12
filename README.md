@@ -1,7 +1,13 @@
-#portfolio
+# portfolio
 This is mmy perosnal protfolio.
 
 ![bhv](https://user-images.githubusercontent.com/71165927/184102332-dff6325f-bff1-4363-9abc-74fcb4c32cdb.png)
+
+built with
+  - reactjs
+  - styled components
+  
+ live link 👉 https://gitmy.netlify.app
 
 # Getting Started with Create React App
 
